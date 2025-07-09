@@ -1,0 +1,1 @@
+# QR-code-generator_and_Encrypted_notes_CLI_app
